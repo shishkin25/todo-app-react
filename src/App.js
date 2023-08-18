@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import styles from './App.module.css';
 import TodoForm from './components/TodoForm/TodoForm';
